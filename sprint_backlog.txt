@@ -1,0 +1,24 @@
+Sprint Backlog - Sprint 01
+Product Owner: Bruce Wayne
+
+Scrum Master: Alexande de Moraes
+
+Período do Sprint: 16/07/2025 a 17/07/2025
+
+Itens do Product Backlog selecionados para este Sprint:
+
+1. História de Usuário (ID 1):
+
+Descrição: Como usuário, quero visualizar os nomes dos veículos em destaque na página inicial para que eu possa identificá-los facilmente.
+
+Critérios de Aceite: A cor do texto do nome dos veículos na lista da página index.html deve ser alterada para azul.
+
+Esforço Estimado: 3 Pontos
+
+2. História de Usuário (ID 3):
+
+Descrição: Como usuário, quero que os links de navegação na página de contato sejam mais claros para que eu saiba para onde cada link me levará.
+
+Critérios de Aceite: Os textos dos links na página contato.html devem ser alterados para "Principal", "Veículos em oferta" e "Como falar conosco".
+
+Esforço Estimado: 2 Pontos

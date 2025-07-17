@@ -1,0 +1,20 @@
+Sprint Retrospective - Sprint 01
+Data: 17/07/2025
+
+O que funcionou bem? (Pontos Positivos)
+Organização com Branches: O uso de branches separadas (index e contato) para cada história de usuário foi muito eficaz. Manteve o trabalho isolado e a branch main sempre estável. Isso evitou confusão e tornou o processo de merge mais simples.
+
+Clareza das Tarefas: As histórias de usuário (ID 1 e 3) estavam bem definidas e com critérios de aceite claros. Foi fácil entender exatamente o que precisava ser feito nos arquivos HTML.
+
+Ferramentas Git/GitHub: O fluxo de clone -> branch -> checkout -> commit -> merge -> push funcionou perfeitamente para gerenciar as versões e atualizar o repositório remoto.
+
+Merge Commit: Tive uma pequena surpresa quando o Git abriu o editor de texto (Vim) para a mensagem do commit de merge. Inicialmente, não sabia como sair, o que causou um pequeno atraso.
+
+Estimativa de Tempo: Embora não tenha sido um problema grande, subestimei o tempo que levaria para configurar o repositório e lembrar de todos os comandos do Git na sequência correta.
+
+Sugestões de Melhoria para o Próximo Sprint
+Criar um Checklist de Comandos: Para o próximo Sprint, vou criar um pequeno "guia de bolso" com os comandos Git mais comuns (checkout, merge, commit --amend, push --force) para agilizar o processo.
+
+Adotar um "Ritual" de Revisão Final: Antes de qualquer push para a branch main, vou adotar o hábito de rodar um git diff para revisar todas as alterações uma última vez, garantindo que nenhum código de teste ou comentário indesejado seja enviado.
+
+Anotar Comandos do Editor Padrão: Pesquisar e anotar os comandos básicos do editor de texto padrão do Git (como salvar e sair do Vim - :wq) para não ser pego de surpresa novamente.
